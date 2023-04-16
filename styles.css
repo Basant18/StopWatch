@@ -1,0 +1,40 @@
+#stopwatch{
+    margin-top: 12%;
+    padding: 5%;
+    height: 100%;
+    width: 100%;
+    border-style: solid;
+    background-color: skyblue;
+}
+
+#display{
+    text-align: center;
+    background-color: white;
+}
+
+#controls{
+    text-align: center;
+}
+
+#start{
+    margin: 10px;
+}
+
+#stop{
+    margin: 10px;
+}
+
+#reset{
+    margin: 10px;
+}
+
+h1{
+    display: inline;
+}
+
+#name{
+    margin-bottom: 40px;
+    padding: 5px;
+    display: block;
+    text-align: center;
+}
